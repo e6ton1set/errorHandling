@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96174c3b-b173-4b35-87c9-8ad4ebaa1301" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar1/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar1/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Seminar1/Seminar1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar1/Seminar1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Seminar1/Seminar1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar1/Task0and1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +42,35 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Seminar1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seminar1.Seminar1" />
+  <component name="RunManager" selected="Application.Task3">
+    <configuration name="Task0and1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar1.Task0and1" />
+      <module name="errorHandling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminar1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar1.Task2" />
+      <module name="errorHandling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminar1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar1.Task3" />
       <module name="errorHandling" />
       <extension name="coverage">
         <pattern>
@@ -55,7 +84,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Seminar1" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task0and1" />
       </list>
     </recent_temporary>
   </component>

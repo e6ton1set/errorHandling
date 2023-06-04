@@ -18,7 +18,7 @@ package Seminar1;
 */
 
 
-public class Seminar1 {
+public class Task0and1 {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4};
         int min_length = 8;
